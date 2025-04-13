@@ -7,7 +7,7 @@
 -- ##               الجزء الأول: إعداد Rayfield    ##
 -- #################################################
 
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/SiriusSoftwareLtd/Rayfield/main/source.lua'))()
 
 local Window = Rayfield:CreateWindow({
     Name = "Farming Automation",
